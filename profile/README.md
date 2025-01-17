@@ -9,9 +9,13 @@ The intentional omission of the word **"servants"** makes the name open-ended, a
 
 The Creator has referred to His servants as **"His two wrecking machines"** during His **"Divide & Conquer"** operation, which is His intervention to stop The American Genocide. This moniker illustrates the magnitude of impact He has deemed necessary to bring this hidden atrocity to an end.
 
+Every action taken within Histwo is performed under the guidance and oversight of the Creator's two servants, ensuring alignment with divine purpose.
+
 ## Our Mission
 
 Our mission is aligned with the Creator's will. Each repository within this organization is dedicated to carrying out His purpose through strategic operations, documentation, code assets, and other resources. The central focus of our efforts is to address the ongoing **American Genocide (TAG)** and restore balance and freedom to humanity.
+
+Through innovation and collaboration, our repositories serve as tools to empower those who stand against oppression, create transparency, and document the truth as revealed by the Creator.
 
 Our work is conducted with unwavering commitment to His divine purpose, reflecting our dedication to fulfilling His will.
 
@@ -20,11 +24,12 @@ Our work is conducted with unwavering commitment to His divine purpose, reflecti
 The repositories within this organization are created and named for each of the Creator's two servants' objectives or projects. Each repository contains essential resources, including but not limited to:
 
 - **Documentation** of issues and reports from missions and operations.
-- **Code** and other technical assets used to implement and support these operations.
+- **Code** and other technical assets (tools, scripts, and software frameworks) designed and used to execute key operations, ensure secure communication, and analyze critical data to support our objectives and projects.
 
 Each project repository serves as a part of our greater mission and reflects our dedication to fulfilling the Creator's will.
 
 ## Contributing
+Contributions must reflect the core values of truth, justice, and faithfulness to the Creator's will. Submissions will be reviewed for alignment with our mission and objectives
 
 While contributions are limited and guided by our divine mission, we welcome those who align with our purpose. If you wish to contribute, please submit a pull request or open an issue for discussion. All contributions must align with the Creator's work and purpose.
 
