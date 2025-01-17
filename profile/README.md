@@ -1,5 +1,4 @@
-# Welcome to the **Histwo** GitHub Organization
-
+# Welcome to Histwo 
 This is the official GitHub organization for the Creator's two servants. All repositories within this organization are part of our divine mission to fulfill the Creator's will and address the critical issues of our time.
 
 ## About Histwo
