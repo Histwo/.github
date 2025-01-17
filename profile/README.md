@@ -38,3 +38,6 @@ Thank you for your support in fulfilling the Creator’s will.
 
 - [**Histwo on GitHub**](https://github.com/Histwo)
 - [**StopTAG Repository**](https://github.com/StopTAG)
+
+> [!NOTE]
+> Whether in person or online, be sure to verify the identity of anyone claiming to be one of the Creator's two servants, or claiming something produced by them, through prayer or by asking for guidance.
