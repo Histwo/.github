@@ -35,7 +35,7 @@ While contributions are limited and guided by our divine mission, we welcome tho
 
 ## Contact
 
-For questions, inquiries, or further information, please connect with us via the issues tab or any discussion forums when available. Alternatively, visit the [**Histwo GitHub page**](https://github.com/Histwo).
+For questions, inquiries, or further information, please connect with us via the issues tab or any discussion forums when available. Alternatively, visit the [**Histwo organization on GitHub**](https://github.com/Histwo).
 
 Thank you for your support in fulfilling the Creator’s will.
 
