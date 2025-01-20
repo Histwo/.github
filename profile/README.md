@@ -21,8 +21,21 @@ Through innovation and collaboration, our repositories serve as tools to empower
 
 Our work is conducted with unwavering commitment to His divine purpose, reflecting our dedication to fulfilling His will.
 
-## Repositories
+## Histwo Wikis  
+Each Histwo repository includes a dedicated Wiki focused on the repository's specific objective or project. These wikis serve as comprehensive resources, providing detailed information, insights, and documentation related to their respective topics. Below is a list of available wikis:  
 
+- [Divide & Conquer Wiki](https://github.com/Histwo/divide_and_conquer/wiki)  
+  Detailed insights into the Creator's Divide & Conquer operation, His intervention in The American Genocide.
+
+- [The American Genocide Wiki](https://github.com/Histwo/the_american_genocide/wiki)  
+  Documentation of The American Genocide (TAG), its orchestrations, methods, tactics and impacts.
+
+- [Unpackings Wiki](https://github.com/Histwo/unpacking_popular_music/wiki)  
+  An exploration of lyrics in popular music inspired by the Creator, revealing hidden messages and divine insight.  
+
+Stay tuned for additional repositories and wikis as the Creator’s servants continue their mission.
+
+## Repositories
 The repositories within this organization are created and named for each of the Creator's two servants' objectives or projects. Each repository contains essential resources, including but not limited to:
 
 - **Documentation** of issues and reports from projects and objectives.
