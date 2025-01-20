@@ -13,17 +13,17 @@ on:
         default: ".generate_md/templates/README.md"
 
 jobs:
-  generate-markdown:
+  generate-and-commit:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4.1.5
+        uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v4
         with:
-          python-version: "3.13"
+          python-version: "3.x"
 
       - name: Install dependencies
         run: |
@@ -31,5 +31,24 @@ jobs:
           pip install pyyaml
 
       - name: Generate Markdown
+        id: generate_markdown
         run: |
+<<<<<<< Updated upstream:.github/workflows/generate_markdown.yml
           python .generate_md/script/generate_markdown.py --template "${{ github.event.inputs.template_path }}" --output "${{ github.event.inputs.output_path }}"
+=======
+          python scripts/generate_markdown.py --template "${{ github.event.inputs.template_path }}" --output "${{ github.event.inputs.output_path }}"
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git add "${{ github.event.inputs.output_path }}"
+          git diff --cached --quiet || echo "Changes detected"
+
+      - name: Commit and Push Changes
+        if: steps.check_changes.outputs.changes_detected == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Automated update: Generated markdown file"
+          git push
+>>>>>>> Stashed changes:.github/workflows/generate_markdown.md
