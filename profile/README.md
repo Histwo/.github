@@ -21,7 +21,7 @@ Through innovation and collaboration, our repositories serve as tools to empower
 
 Our work is conducted with unwavering commitment to His divine purpose, reflecting our dedication to fulfilling His will.
 
-## Histwo Wikis  
+## Wikis  
 Each Histwo repository includes a dedicated Wiki focused on the repository's specific objective or project. These wikis serve as comprehensive resources, providing detailed information, insights, and documentation related to their respective topics. Below is a list of available wikis:  
 
 - [Divide & Conquer Wiki](https://github.com/Histwo/divide_and_conquer/wiki)  
