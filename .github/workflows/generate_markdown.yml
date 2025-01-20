@@ -6,11 +6,11 @@ on:
       output_path:
         description: "Output file path relative to the repository (e.g., /README.md)"
         required: true
-        default: "/README.md"
+        default: "README.md"
       template_path:
         description: "Path to the template file relative to the repository"
         required: true
-        default: "/.generate_md/templates/README.md"
+        default: ".generate_md/templates/README.md"
 
 jobs:
   generate-markdown:
