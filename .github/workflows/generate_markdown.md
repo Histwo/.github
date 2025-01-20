@@ -1,0 +1,35 @@
+name: Generate Markdown
+
+on:
+  workflow_dispatch:
+    inputs:
+      output_path:
+        description: "Output file path relative to the repository (e.g., /README.md)"
+        required: true
+        default: "/README.md"
+      template_path:
+        description: "Path to the template file relative to the repository"
+        required: true
+        default: "/.generate_md/templates/README.md"
+
+jobs:
+  generate-markdown:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4.1.5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyyaml
+
+      - name: Generate Markdown
+        run: |
+          python .generate_md/script/generate_markdown.py --template "${{ github.event.inputs.template_path }}" --output "${{ github.event.inputs.output_path }}"
