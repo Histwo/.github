@@ -15,7 +15,7 @@ Every administrative task within the Histwo organization on GitHub is performed 
 
 ## Our Mission
 
-Our mission is aligned with the Creator's will. Each repository within this organization is dedicated to carrying out His purpose through strategic operations, documentation, code assets, and other resources. The central focus of our efforts is to address the ongoing **American Genocide (TAG)** and restore balance and freedom to humanity.
+Our mission is aligned with the Creator's will. Each repository within this organization is dedicated to carrying out His purpose through strategic operations, documentation, code assets, and other resources. The central focus of our current mission  is to ending **The American Genocide (TAG)** and bringing those responsible to justice.
 
 Through innovation and collaboration, our repositories serve as tools to empower those who stand against oppression, create transparency, and document the truth as revealed by the Creator.
 
