@@ -33,10 +33,7 @@ jobs:
       - name: Generate Markdown
         id: generate_markdown
         run: |
-<<<<<<< Updated upstream:.github/workflows/generate_markdown.yml
           python .generate_md/script/generate_markdown.py --template "${{ github.event.inputs.template_path }}" --output "${{ github.event.inputs.output_path }}"
-=======
-          python scripts/generate_markdown.py --template "${{ github.event.inputs.template_path }}" --output "${{ github.event.inputs.output_path }}"
 
       - name: Check for changes
         id: check_changes
@@ -51,4 +48,3 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "Automated update: Generated markdown file"
           git push
->>>>>>> Stashed changes:.github/workflows/generate_markdown.md
