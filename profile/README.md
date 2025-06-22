@@ -1,6 +1,4 @@
----
-title: "We're Not Going Anywhere"
----
+# We're Not Going Anywhere
 
 This GitHub repository and organization have been compromised. The breach originated from a compromised mobile device, which allowed for the subsequent unauthorized change of the associated email address and password.
 This is a confirmed breach.
