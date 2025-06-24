@@ -1,5 +1,3 @@
----
-
 # Histwo
 
 Welcome to **Histwo**, the official GitHub organization for the **Creator's two servants**. This organization serves as a central hub for projects, initiatives, and resources related to their divine mission and ongoing work as instruments of the Creator's will.
@@ -35,4 +33,7 @@ The Histwo GitHub organization aims to:
 
 Explore our repositories to learn more about specific projects and documentation related to the Creator's two servants and their divine purpose.
 
+## Projects
+
+* [The angel of the church in Smyrna's R Wiki](https://github.com/taotcis/R/wiki) - The Book of Revelation's Literal Fulfillment in the Veiled Conquest
 ---
